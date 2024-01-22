@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "397118200545",
+    "project_id": "phonepayclone-668c8",
+    "storage_bucket": "phonepayclone-668c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397118200545:android:1c6903e67fcf816bb135a0",
+        "android_client_info": {
+          "package_name": "com.phonepayclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKV3niYdUbq5Fg4ESW_Wg0_NQcYUz8HN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
